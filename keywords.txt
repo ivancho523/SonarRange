@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map for SonarRange
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SonarRange	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setPins	KEYWORD2
+setUnit	KEYWORD2
+setOutput	KEYWORD2
+begin	KEYWORD2
+read	KEYWORD2
+printSetup	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+RangeUnit_IN	LITERAL1
+RangeUnit_CM	LITERAL1
+RangeOutput_Serial	LITERAL1
+RangeOutput_Analog	LITERAL1
+RangeOutput_Pulse	LITERAL1
